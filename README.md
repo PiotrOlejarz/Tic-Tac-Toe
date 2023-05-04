@@ -11,3 +11,6 @@ Thank you for showing interest in my project. I have created a simple game calle
 2. How to install? It's simple! If you only want to download the game, just download the file "Tic Tac Toe Game" (without the source code), 
 then open the file to start the game. The "Tic Tac Toe" file only contains the source code, for those who want to see how I made the game.
 Finally, last file "Source and builded project" has game and source.
+
+
+3. In the future, I plan to rewrite the code and add the SDL2 library, which will allow me to create a full version of the game with mouse control.
